@@ -45,3 +45,17 @@ footer {
   background: #2c3e50;
   color: white;
 }
+
+.resume-btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #108597;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.resume-btn:hover {
+    background-color: #0d4c52;
+}
